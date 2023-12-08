@@ -1,0 +1,5 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 16:33 ?        00:00:00 /sbin/init
+root           2       1  0 16:33 ?        00:00:00 /init
+root           4       2  0 16:33 ?        00:00:00 plan9 --control-socket 6 --log-level 4 --server-fd 7 --pipe-fd 9 --log-truncate
+root           7       2  0 16:33 ?        00:00:00 [sh] <defunct>
